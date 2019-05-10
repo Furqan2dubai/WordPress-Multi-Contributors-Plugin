@@ -2,7 +2,7 @@
  
 /*
 Plugin Name: WordPress Multi Contributors
-Plugin URI: https://furqanhussain.com/
+Plugin URI: https://github.com/Furqan2dubai/WordPress-Multi-Contributors-Plugin
 Description: 'WordPress Contributors'
 Author: Furqan Hussain
 Version: 1.7.2
