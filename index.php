@@ -76,9 +76,7 @@ function contributor_after_content( $content ) {
 
        $content = $content.$contributorBox ;
        
-      }
-
-    $a = get_avatar(2);
+      } 
 
    return $content;
 }
