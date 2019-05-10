@@ -1,4 +1,4 @@
-Assignment - 2: WordPress Contributors Plugin
+<h1>WordPress Contributors Plugin</h1>
 This plugin will test if you are familiar with WordPress metabox functionality. Goal is to create a plugin so that we can
 display more than one author-name on a post.
 Admin-Side:
